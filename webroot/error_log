@@ -1,0 +1,104 @@
+[03-Aug-2018 08:33:27 America/Denver] PHP Parse error:  syntax error, unexpected ''defaultLocale'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/coopself/public_html/edtc/config/app.php on line 45
+[03-Aug-2018 08:34:35 America/Denver] PHP Parse error:  syntax error, unexpected ''url'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/coopself/public_html/edtc/config/app.php on line 137
+[03-Aug-2018 08:34:53 America/Denver] PHP Parse error:  syntax error, unexpected ''url'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/coopself/public_html/edtc/config/app.php on line 137
+[24-Oct-2018 01:08:16 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home/coopself/public_html/flashticket/webroot/test.php on line 6
+[24-Oct-2018 01:10:31 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home/coopself/public_html/flashticket/webroot/test.php on line 6
+[24-Oct-2018 01:10:59 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home/coopself/public_html/flashticket/webroot/test.php on line 6
+[12-Nov-2018 10:44:54 Africa/Nairobi] PHP Fatal error:  Namespace declaration statement has to be the very first statement in the script in /home/coopself/public_html/flashticket/src/Model/Table/TicketcustomerTable.php on line 3
+[12-Nov-2018 10:45:55 Africa/Nairobi] PHP Fatal error:  Class 'App\Model\Table\Table' not found in /home/coopself/public_html/flashticket/src/Model/Table/TicketcustomerTable.php on line 5
+[26-Feb-2019 00:09:01 America/Denver] PHP Fatal error:  You must enable the intl extension to use CakePHP.
+ in /home/coopself/public_html/flashticket/config/requirements.php on line 31
+[26-Feb-2019 00:38:40 America/Denver] PHP Fatal error:  You must enable the intl extension to use CakePHP.
+ in /home/coopself/public_html/flashticket/config/requirements.php on line 31
+[26-Feb-2019 00:52:22 America/Denver] PHP Fatal error:  You must enable the intl extension to use CakePHP.
+ in /home/coopself/public_html/flashticket/config/requirements.php on line 31
+[26-Feb-2019 00:52:41 America/Denver] PHP Fatal error:  You must enable the intl extension to use CakePHP.
+ in /home/coopself/public_html/flashticket/config/requirements.php on line 31
+[26-Feb-2019 00:53:26 America/Denver] PHP Fatal error:  You must enable the intl extension to use CakePHP.
+ in /home/coopself/public_html/flashticket/config/requirements.php on line 31
+[26-Feb-2019 00:53:55 America/Denver] PHP Fatal error:  You must enable the intl extension to use CakePHP.
+ in /home/coopself/public_html/flashticket/config/requirements.php on line 31
+[26-Feb-2019 00:54:12 America/Denver] PHP Fatal error:  You must enable the intl extension to use CakePHP.
+ in /home/coopself/public_html/flashticket/config/requirements.php on line 31
+[26-Feb-2019 00:54:16 America/Denver] PHP Fatal error:  You must enable the intl extension to use CakePHP.
+ in /home/coopself/public_html/flashticket/config/requirements.php on line 31
+[26-Feb-2019 01:07:19 America/Denver] PHP Fatal error:  You must enable the intl extension to use CakePHP.
+ in /home/coopself/public_html/flashticket/config/requirements.php on line 31
+[26-Feb-2019 02:07:15 America/Denver] PHP Fatal error:  You must enable the intl extension to use CakePHP.
+ in /home/coopself/public_html/flashticket/config/requirements.php on line 31
+[26-Feb-2019 02:08:04 America/Denver] PHP Fatal error:  You must enable the intl extension to use CakePHP.
+ in /home/coopself/public_html/flashticket/config/requirements.php on line 31
+[26-Feb-2019 02:08:04 America/Denver] PHP Fatal error:  You must enable the intl extension to use CakePHP.
+ in /home/coopself/public_html/flashticket/config/requirements.php on line 31
+[26-Feb-2019 02:15:14 America/Denver] PHP Fatal error:  You must enable the intl extension to use CakePHP.
+ in /home/coopself/public_html/flashticket/config/requirements.php on line 31
+[26-Feb-2019 02:17:59 America/Denver] PHP Fatal error:  You must enable the intl extension to use CakePHP.
+ in /home/coopself/public_html/flashticket/config/requirements.php on line 31
+[26-Feb-2019 02:19:10 America/Denver] PHP Fatal error:  You must enable the intl extension to use CakePHP.
+ in /home/coopself/public_html/flashticket/config/requirements.php on line 31
+[26-Feb-2019 02:20:19 America/Denver] PHP Fatal error:  You must enable the intl extension to use CakePHP.
+ in /home/coopself/public_html/flashticket/config/requirements.php on line 31
+[26-Feb-2019 02:29:27 America/Denver] PHP Fatal error:  You must enable the intl extension to use CakePHP.
+ in /home/coopself/public_html/flashticket/config/requirements.php on line 31
+[26-Feb-2019 02:32:26 America/Denver] PHP Fatal error:  You must enable the intl extension to use CakePHP.
+ in /home/coopself/public_html/flashticket/config/requirements.php on line 31
+[26-Feb-2019 02:33:13 America/Denver] PHP Fatal error:  You must enable the intl extension to use CakePHP.
+ in /home/coopself/public_html/flashticket/config/requirements.php on line 31
+[26-Feb-2019 02:33:50 America/Denver] PHP Fatal error:  You must enable the intl extension to use CakePHP.
+ in /home/coopself/public_html/flashticket/config/requirements.php on line 31
+[26-Feb-2019 02:35:34 America/Denver] PHP Fatal error:  You must enable the intl extension to use CakePHP.
+ in /home/coopself/public_html/flashticket/config/requirements.php on line 31
+[26-Feb-2019 02:35:35 America/Denver] PHP Fatal error:  You must enable the intl extension to use CakePHP.
+ in /home/coopself/public_html/flashticket/config/requirements.php on line 31
+[26-Feb-2019 02:40:55 America/Denver] PHP Fatal error:  You must enable the intl extension to use CakePHP.
+ in /home/coopself/public_html/flashticket/config/requirements.php on line 31
+[26-Feb-2019 02:46:50 America/Denver] PHP Fatal error:  You must enable the intl extension to use CakePHP.
+ in /home/coopself/public_html/flashticket/config/requirements.php on line 31
+[26-Feb-2019 02:46:55 America/Denver] PHP Fatal error:  You must enable the intl extension to use CakePHP.
+ in /home/coopself/public_html/flashticket/config/requirements.php on line 31
+[26-Feb-2019 02:54:20 America/Denver] PHP Fatal error:  You must enable the intl extension to use CakePHP.
+ in /home/coopself/public_html/flashticket/config/requirements.php on line 31
+[26-Feb-2019 02:55:17 America/Denver] PHP Fatal error:  You must enable the intl extension to use CakePHP.
+ in /home/coopself/public_html/flashticket/config/requirements.php on line 31
+[26-Feb-2019 03:08:17 America/Denver] PHP Fatal error:  You must enable the intl extension to use CakePHP.
+ in /home/coopself/public_html/flashticket/config/requirements.php on line 31
+[26-Feb-2019 03:12:56 America/Denver] PHP Fatal error:  You must enable the intl extension to use CakePHP.
+ in /home/coopself/public_html/flashticket/config/requirements.php on line 31
+[26-Feb-2019 03:17:57 America/Denver] PHP Fatal error:  You must enable the intl extension to use CakePHP.
+ in /home/coopself/public_html/flashticket/config/requirements.php on line 31
+[26-Feb-2019 03:18:02 America/Denver] PHP Fatal error:  You must enable the intl extension to use CakePHP.
+ in /home/coopself/public_html/flashticket/config/requirements.php on line 31
+[26-Feb-2019 03:24:02 America/Denver] PHP Fatal error:  You must enable the intl extension to use CakePHP.
+ in /home/coopself/public_html/flashticket/config/requirements.php on line 31
+[26-Feb-2019 03:25:12 America/Denver] PHP Fatal error:  You must enable the intl extension to use CakePHP.
+ in /home/coopself/public_html/flashticket/config/requirements.php on line 31
+[26-Feb-2019 03:26:43 America/Denver] PHP Fatal error:  You must enable the intl extension to use CakePHP.
+ in /home/coopself/public_html/flashticket/config/requirements.php on line 31
+[26-Feb-2019 03:31:52 America/Denver] PHP Fatal error:  You must enable the intl extension to use CakePHP.
+ in /home/coopself/public_html/flashticket/config/requirements.php on line 31
+[26-Feb-2019 03:36:28 America/Denver] PHP Fatal error:  You must enable the intl extension to use CakePHP.
+ in /home/coopself/public_html/flashticket/config/requirements.php on line 31
+[26-Feb-2019 03:42:28 America/Denver] PHP Fatal error:  You must enable the intl extension to use CakePHP.
+ in /home/coopself/public_html/flashticket/config/requirements.php on line 31
+[26-Feb-2019 03:45:09 America/Denver] PHP Fatal error:  You must enable the mbstring extension to use CakePHP.
+ in /home/coopself/public_html/flashticket/config/requirements.php on line 38
+[26-Feb-2019 13:49:18 Africa/Nairobi] PHP Fatal error:  Class 'PDO' not found in /home/coopself/public_html/flashticket/vendor/cakephp/cakephp/src/Database/Type.php on line 103
+[26-Feb-2019 03:50:39 America/Denver] PHP Fatal error:  You must enable the mbstring extension to use CakePHP.
+ in /home/coopself/public_html/flashticket/config/requirements.php on line 38
+[26-Feb-2019 03:50:43 America/Denver] PHP Fatal error:  You must enable the mbstring extension to use CakePHP.
+ in /home/coopself/public_html/flashticket/config/requirements.php on line 38
+[11-Apr-2019 00:15:39 America/Denver] PHP Parse error:  syntax error, unexpected 'test' (T_STRING) in /home/coopself/public_html/flashticket/webroot/test.php on line 3
+[11-Apr-2019 00:16:15 America/Denver] PHP Parse error:  syntax error, unexpected 'test' (T_STRING) in /home/coopself/public_html/flashticket/webroot/test.php on line 3
+[11-Apr-2019 00:16:29 America/Denver] PHP Parse error:  syntax error, unexpected 'in' (T_STRING), expecting ')' in /home/coopself/public_html/flashticket/webroot/test.php on line 8
+[11-Apr-2019 00:17:10 America/Denver] PHP Parse error:  syntax error, unexpected '', 0),' (T_ENCAPSED_AND_WHITESPACE), expecting ',' or ')' in /home/coopself/public_html/flashticket/webroot/test.php on line 26
+[11-Apr-2019 00:17:44 America/Denver] PHP Parse error:  syntax error, unexpected ',' in /home/coopself/public_html/flashticket/webroot/test.php on line 26
+[11-Apr-2019 00:18:05 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/coopself/public_html/flashticket/webroot/test.php on line 19
+[11-Apr-2019 00:18:05 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/coopself/public_html/flashticket/webroot/test.php on line 20
+[11-Apr-2019 00:18:05 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/coopself/public_html/flashticket/webroot/test.php on line 21
+[11-Apr-2019 00:18:05 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/coopself/public_html/flashticket/webroot/test.php on line 22
+[11-Apr-2019 00:18:05 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/coopself/public_html/flashticket/webroot/test.php on line 23
+[11-Apr-2019 00:18:05 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/coopself/public_html/flashticket/webroot/test.php on line 24
+[11-Apr-2019 00:18:05 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/coopself/public_html/flashticket/webroot/test.php on line 25
+[11-Apr-2019 00:18:05 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/coopself/public_html/flashticket/webroot/test.php on line 26
+[11-Apr-2019 00:18:05 America/Denver] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/coopself/public_html/flashticket/webroot/test.php on line 27
+[11-Apr-2019 00:19:49 America/Denver] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/coopself/public_html/flashticket/webroot/test.php on line 28

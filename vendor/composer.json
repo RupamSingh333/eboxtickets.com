@@ -1,0 +1,6 @@
+{
+    "require": {
+        "friendsofcake/cakepdf": "^3.5",
+        "tecnickcom/tcpdf": "^6.2"
+    }
+}

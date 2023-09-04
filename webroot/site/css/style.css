@@ -1,0 +1,176 @@
+@charset "utf-8";
+/* CSS Document */
+/**** RESET CSS
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------****/
+* {
+	magin:0;
+	padding:0;
+	-webkit-box-sizing:  border-box;
+	-moz-box-sizing:  border-box;
+	box-sizing:  border-box;
+}
+html, body, table, th, td, tr, tbody, thead, thead, tfoot, dl, dt, dd, div, em, strong, b, i, sub, sup, ul, ol, li, span, applet, object, iframe, pre, blockquote, a, abbr, acronym, address, big, small, cite, code, dfn, font, ins, kbd, q, s, samp, strike, fieldset, form, label, legend, caption, main, section, header, footer, aside, hgroup {
+	font-style:normal;
+	font-weight:normal;
+	font-family:inherit;
+	font-size:inherit;
+	text-decoration:none;
+}
+html {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+*, *:before, *:after {
+	-webkit-box-sizing: inherit;
+	-moz-box-sizing: inherit;
+	box-sizing: inherit;
+}
+img {
+	max-width:100%;
+	vertical-align:bottom;
+	border:none;
+}
+body, html, #page-wrapper {
+	height:100%;
+}
+body {
+	font-family: 'Poppins', sans-serif;
+}
+a, a:link, a:hover {
+	text-decoration:none;
+}
+/**** header CSS
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------****/
+header {
+	position:absolute;
+	top:0;
+	left:0;
+	right:0;
+	z-index:9;
+	padding-top:10px;
+}
+.dr-licns {
+	position: absolute;
+	top: 56%;
+	left: 50%;
+	width: 500px;
+	height: 500px;
+	margin-top: -250px; /* Half the height */
+	margin-left: -250px; /* Half the width */
+}
+/**** slider CSS
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------****/  
+#slider {
+	background-image:url(../images/slider1.jpg);
+	background-repeat:no-repeat;
+	
+	height:700px;
+	position:relative;
+}
+.c-b-h .btn {
+	width:150px;
+}
+.c-b-h {
+	position:absolute;
+	bottom:-115px;
+}
+.btn-success:hover, btn-success:focus, btn-success:active {
+	background-color:#3e75fa;
+}
+#reg {
+	text-align:center;
+	margin-top:128px;
+}
+/**** licence-test
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------****/ 
+#licence-test {
+	padding-top:20px;
+	padding-bottom:20px;
+}
+#licence-test h2 {
+	text-align:center;
+	margin-top:20px;
+	margin-bottom:10px;
+	font-weight:400;
+}
+#licence-test h3 {
+	text-transform:capitalize;
+	text-align:left;
+	margin-top:20px;
+	margin-bottom:30px;
+	font-weight:400;
+	font-size:26px;
+	border-bottom: 1px solid #007bff;
+	padding-bottom: 10px;
+}
+.mock-test {
+	border:1px solid #eee;
+	padding:5px;
+}
+#licence-test .mock-test h2 {
+	text-align:center;
+	margin-top:20px;
+	margin-bottom:10px;
+	font-weight:300;
+	color:rgba(148, 148, 149, 0.2);
+	font-size:40px;
+}
+#licence-test .mock-test h6 {
+	margin-top:20px;
+	margin-bottom:10px;
+	font-weight:500;
+	color:#211e23;
+	font-size:22px;
+}
+#licence-test .mock-test p {
+	margin-bottom:10px;
+	font-weight:300;
+	color:#211e23;
+	font-size:18px;
+}
+.pill-car-cnt {
+	min-height: 355px;
+}
+/**** footer
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------****/ 
+footer {
+	background:url(../images/footer-bg.jpg) no-repeat center center;
+	background-size:cover;
+	height:377px;
+	margin-top:20px;
+}
+.footer-top a {
+	font-size:16px;
+	font-weight:500;
+	color:#fff;
+	text-decoration:none;
+}
+footer p {
+	font-size:16px;
+	font-weight:400;
+	color:#fff;
+}
+.footer-top a i {
+	margin:0 5px;
+}
+.footer-top {
+	padding:20px 0;
+	border-bottom:1px solid #fff;
+}
+.foot-nav ul li {
+	display:inline-block;
+	margin:20px 10px;
+}
+.foot-nav ul li a {
+	color:#fff;
+}
+.footer-middle {
+	text-align:center;
+	padding:20px 0;
+}
+.foot-nav ul {
+	max-width:60%;
+	margin:auto;
+	border-bottom:1px solid #fff;
+}
